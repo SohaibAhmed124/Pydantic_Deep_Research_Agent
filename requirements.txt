@@ -1,0 +1,7 @@
+pydantic-ai>=0.0.14
+openai>=1.50.0
+gradio>=5.0.0
+python-dotenv>=1.0.0
+ddgs>=9.16.0
+markdownify>=1.2.0
+beautifulsoup4>=4.12.0
